@@ -1,0 +1,1 @@
+create or replace stream DEVOPS_STREAM on table DEVOPS_TABLE;
